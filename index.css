@@ -3,7 +3,7 @@ body{
 }
 
 .box-port{
-    background-color:white;
+    background-color:rgba(255, 255, 255, 0.784);
     padding: 60px 10px;
     margin:80px 0px 55px 0px;
 }
@@ -15,15 +15,15 @@ a{
 }
 
 p{
-    font: size 15px;;
+    font-size:15px;;
 }
 
 .box{
-    padding: 6opx 0px;
+    padding:60px 0px;
 }
 
 .box-two{
-    background-color:white;
+    background-color:rgba(255, 255, 255, 0.784);
     padding: 60px 10px;
     margin: 0px 0px 80px 0px;
 }
