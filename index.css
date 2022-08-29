@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(204, 205, 250);
+}
+
+.box-port{
+    background-color:white;
+    padding: 60px 10px;
+    margin:80px 0px 55px 0px;
+}
+.fa{
+    color: rgb(82, 84, 235);
+}
+a{
+    border-bottom: 2px solid blue;
+}
+
+p{
+    font: size 15px;;
+}
+
+.box{
+    padding: 6opx 0px;
+}
+
+.box-two{
+    background-color:white;
+    padding: 60px 10px;
+    margin: 0px 0px 80px 0px;
+}
